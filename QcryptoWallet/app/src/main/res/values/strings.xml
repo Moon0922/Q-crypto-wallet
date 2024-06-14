@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QcryptoWallet</string>
+    <string name="lets_start_with_the_basics">Lets Start with the basics</string>
+    <string name="send_code">It sent the verification code to your phone. Please check and insert the code</string>
+    <string name="first_name">First name</string>
+    <string name="surname">Surname</string>
+    <string name="email">Email</string>
+    <string name="_19">19+</string>
+    <string name="_1">+1</string>
+    <string name="zipcode">Zipcode</string>
+    <string name="code">code</string>
+    <string name="country">Country</string>
+    <string name="information">This information is private, protected, never sold, and never displayed ever. It is the minimum information we are required to collect</string>
+    <string name="next">Next</string>
+    <string name="verify">Verify</string>
+</resources>

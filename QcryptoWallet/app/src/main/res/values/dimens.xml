@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_login_page">25dp</dimen>
+    <dimen name="edit_padding">9dp</dimen>
+</resources>
